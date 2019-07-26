@@ -1,2 +1,6 @@
 # OpenPTV_MATLAB
-MATLAB codes used in support of my masters thesis for CSU Sacramento
+MATLAB codes used in support of my masters thesis: "LAGRANGIAN TRAJECTORIES FOR IMMISCIBLE DISPLACEMENT OF WATER BY SUPERCRITICAL CO2 IN A HOMOGENEOUS MICROMODEL USING PARTICLE TRACKING VELOCIMETRY".
+
+California State University, Sacramento
+
+Author: Michael Alejandro Santana
